@@ -194,6 +194,10 @@ q2: Transaction ID of transferring 1 Non Fungible Token
 
 a2: [a valid Transaction ID with `5QDcRHpEfDvCT9Ku3yaC8h9GYvDmsLGmq9FQZYh6Vd5` as recipient]
 
+q3: What is an Associated Token Account and why do we need to create it before transferring tokens to an address? 
+
+a3: An Associated Token Account is the result of deriving a token account key from a user's main System account address and a token mint address, allowing the user to create a main token account for each token they own. In simple words, an Associated Token Account is an account that references our wallet + Token ID , creating an account to hold this specific token. 
+
 q3: How much time did it take? (mins)
 
 a3: 5
@@ -210,5 +214,6 @@ ___
 Your submission should include the following:
 1. The `Transaction ID` of the 1.000.000 Tokens transfer.
 2. The `Transaction ID` of the 1 Non Fungible Token transfer.
-2. Time it took to complete the Non-Fungible Token Challenge.
+3. Explaining what is an Associated Token Account.
+4. Time it took to complete the Non-Fungible Token Challenge.
 
