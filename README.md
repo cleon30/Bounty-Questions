@@ -50,6 +50,7 @@ Your objective will be pretty simple, create a token and mint 21.000.000 units.
 q1: Token ID
 
 a1: [a valid Token ID]
+Explorer example:
 
 <img width="1262" alt="image" src="https://user-images.githubusercontent.com/62452212/195808438-191f4fca-df69-47a4-81b0-d5a2dac2dc13.png">
 
@@ -57,6 +58,7 @@ a1: [a valid Token ID]
 q2: Signature of the Minting 
 
 a2: [a valid Signature]
+Explorer example:
 
 <img width="1098" alt="image" src="https://user-images.githubusercontent.com/62452212/195808308-873f1f57-f6fe-4137-93f8-7816d44bd432.png">
 
