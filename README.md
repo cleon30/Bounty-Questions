@@ -60,14 +60,13 @@ q2: Signature of the Minting
 
 a2: [a valid Signature]
 
-q3: how much time did something take? (mins)
-
-a3: 5
-
-
 Explorer example:
 
 <img width="1098" alt="image" src="https://user-images.githubusercontent.com/62452212/195808308-873f1f57-f6fe-4137-93f8-7816d44bd432.png">
+
+q3: how much time did something take? (mins)
+
+a3: 5
 
 ### Resources:
 
@@ -81,7 +80,7 @@ ___
 Your submission should include the following:
 1. Your `Token ID` (address) from the url above.
 2. The `Signature` of your mint .
-3. Time it took to deploy your program.
+3. Time it took to complete the Fungible Token Tutorial.
 
 
 ## **2. SPL Tokens: Create your first Non Fungible Token (NFT)**
