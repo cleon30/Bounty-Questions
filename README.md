@@ -24,7 +24,7 @@ ___
 
 ### Description
 
-Hey Hunter 🥷 , did you knew that you can create tokens in Solana? In Solana we use SPL token stardards and are very easy to create.
+Hey Hunter 🥷 , did you knew that you can create tokens in Solana? In Solana we use SPL token standards and are very easy to create.
 
 In this challenge we will work with Fungible Tokens 🪙 🪙 🪙
 
