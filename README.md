@@ -197,3 +197,18 @@ a2: [a valid Transaction ID with `5QDcRHpEfDvCT9Ku3yaC8h9GYvDmsLGmq9FQZYh6Vd5` a
 q3: How much time did it take? (mins)
 
 a3: 5
+
+### Resources:
+
+- <a href="https://spl.solana.com/" target="_blank">Solana SPL</a> 
+
+- <a href="https://solscan.io/" target="_blank">SolScan Explorer</a>
+
+___
+
+### How to Submit
+Your submission should include the following:
+1. The `Transaction ID` of the 1.000.000 Tokens transfer.
+2. The `Transaction ID` of the 1 Non Fungible Token transfer.
+2. Time it took to complete the Non-Fungible Token Challenge.
+
