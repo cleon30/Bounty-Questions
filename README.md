@@ -24,7 +24,9 @@ ___
 
 ### Description
 
-Hey Hunter 🥷 , did you knew that you can create tokens in Solana? In Solana we use SPL token stardard and are very easy to create :) 
+Hey Hunter 🥷 , did you knew that you can create tokens in Solana? In Solana we use SPL token stardards and are very easy to create.
+
+In this challenge we will work with Fungible Tokens 🪙 🪙 🪙
 
 💡 Record the start time so we can reference it later.
 
@@ -85,5 +87,12 @@ Your submission should include the following:
 
 
 ## **2. SPL Tokens: Create your first Non Fungible Token (NFT)**
+
+### Rewards: 30 Points 💰
+___
+
+### Description
+
+Hey Solana enjoyer 🥷 ! In this challenge you will understand what is an NFT.
 
 ## **3. SPL Tokens: Transfer your NFT to our Bounty Address**
