@@ -64,9 +64,9 @@ Explorer example:
 
 <img width="1098" alt="image" src="https://user-images.githubusercontent.com/62452212/195808308-873f1f57-f6fe-4137-93f8-7816d44bd432.png">
 
-q3: how much time did something take? (mins)
+q3: How much time did it take? (mins)
 
-a3: 5
+a3: 10
 
 ### Resources:
 
