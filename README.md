@@ -79,8 +79,8 @@ ___
 
 ### How to Submit
 Your submission should include the following:
-1. Your `Token ID` (address) from the url above.
-2. The `Signature` of your mint .
+1. The `Token ID` of the Token you created.
+2. The `Signature` of your mint.
 3. Time it took to complete the Fungible Token Challenge.
 
 
