@@ -60,6 +60,11 @@ q2: Signature of the Minting
 
 a2: [a valid Signature]
 
+q: how much time did something take? (mins)
+
+a: 5
+
+
 Explorer example:
 
 <img width="1098" alt="image" src="https://user-images.githubusercontent.com/62452212/195808308-873f1f57-f6fe-4137-93f8-7816d44bd432.png">
@@ -69,6 +74,15 @@ Explorer example:
 <a href="https://spl.solana.com/" target="_blank">Solana SPL</a> 
 
 <a href="https://doc.rust-lang.org/book/" target="_blank">Rust</a>
+
+___
+
+### How to Submit
+Your submission should include the following:
+1. Your `Token ID` (address) from the url above.
+2. The `Signature` of your mint .
+3. Time it took to deploy your program.
+
 
 ## **2. SPL Tokens: Create your first Non Fungible Token (NFT)**
 
