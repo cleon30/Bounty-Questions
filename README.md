@@ -31,7 +31,7 @@ Your objective will be pretty simple, create a token and mint 21.000.000 units.
 
 1. Visit the Solana SPL docs: <a href="https://spl.solana.com/" target="_blank">https://spl.solana.com/</a>
 2. Click on <a href="https://spl.solana.com/token" target="_blank">Token Program</a> 
-3. Installation <a href="https://spl.solana.com/token#reference-guide" target="_blank">Install SPL</a>
+3. <a href="https://spl.solana.com/token#reference-guide" target="_blank">Install SPL</a>
 4. <a href="https://spl.solana.com/token#example-creating-your-own-fungible-token" target="_blank">Follow the guide to create Fungible Tokens</a>
 
 
