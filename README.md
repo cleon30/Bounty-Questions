@@ -127,6 +127,10 @@ Explorer example:
 
 <img width="1262" alt="image" src="https://user-images.githubusercontent.com/62452212/195823793-b7fb479c-6002-4945-af07-f08fb1004d61.png">
 
+q2: How much time did it take? (mins)
+
+a2: 10
+
 ### Resources:
 
 <a href="https://spl.solana.com/" target="_blank">Solana SPL</a> 
