@@ -17,7 +17,7 @@
 - 2 [SPL Tokens: Create your first Non Fungible Token (NFT)](#1-presentation) 
 - 3 [SPL Tokens: Transfer your NFT to our Bounty Address](#1-presentation) 
 
-## **1. SPL Tokens: Create a Fungible Token with 21.000.000 units**
+## **1. SPL Tokens: Create 21.000.000 units of a Fungible Token**
 
 ### Rewards: 20 Points 💰
 
