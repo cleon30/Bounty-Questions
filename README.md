@@ -162,10 +162,38 @@ In this final part you will learn how to send Tokens!
 
 💡 Record the start time so we can reference it later.
 
-For that we will ask you to send 1.000.000 Fungible Tokens and 1 NFT to our Bounty Address : 
+For that we will ask you to send 1.000.000 Fungible Tokens and 1 NFT to our Bounty Address: 
 ```bash
 5QDcRHpEfDvCT9Ku3yaC8h9GYvDmsLGmq9FQZYh6Vd5
 ```
 
+1. Visit the Solana SPL docs: <a href="https://spl.solana.com/" target="_blank">https://spl.solana.com/</a>
+2. Click on <a href="https://spl.solana.com/token" target="_blank">Token Program</a> 
+3. <a href="https://spl.solana.com/token#example-transferring-tokens-to-an-explicit-recipient-token-account" target="_blank">Follow the guide to Transfer Tokens</a>
+
+💡 Record the end time. How long did it take?
 
 
+### Tips:
+
+- If you don't remember the Tokens you created with your keypair, do the following command: `spl-token accounts` 
+- Check that you are currently using devnet network 👀
+- Be careful when selecting your Token ID and your Associated Token Account
+
+### Q/A
+
+q1: Transaction ID of transferring 1.000.000 Fungible Tokens
+
+a1: [a valid Transaction ID with `5QDcRHpEfDvCT9Ku3yaC8h9GYvDmsLGmq9FQZYh6Vd5` as recipient]
+
+Explorer example:
+
+<img width="1262" alt="image" src="https://user-images.githubusercontent.com/62452212/195823793-b7fb479c-6002-4945-af07-f08fb1004d61.png">
+
+q2: Transaction ID of transferring 1 Non Fungible Token
+
+a2: [a valid Transaction ID with `5QDcRHpEfDvCT9Ku3yaC8h9GYvDmsLGmq9FQZYh6Vd5` as recipient]
+
+q3: How much time did it take? (mins)
+
+a3: 5
