@@ -20,6 +20,7 @@
 ## **1. SPL Tokens: Create 21.000.000 units of a Fungible Token**
 
 ### Rewards: 30 Points 💰
+___
 
 ### Description
 
