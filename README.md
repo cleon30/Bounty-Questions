@@ -186,10 +186,6 @@ q1: Transaction ID of transferring 1.000.000 Fungible Tokens
 
 a1: [a valid Transaction ID with `5QDcRHpEfDvCT9Ku3yaC8h9GYvDmsLGmq9FQZYh6Vd5` as recipient]
 
-Explorer example:
-
-<img width="1262" alt="image" src="https://user-images.githubusercontent.com/62452212/195823793-b7fb479c-6002-4945-af07-f08fb1004d61.png">
-
 q2: Transaction ID of transferring 1 Non Fungible Token
 
 a2: [a valid Transaction ID with `5QDcRHpEfDvCT9Ku3yaC8h9GYvDmsLGmq9FQZYh6Vd5` as recipient]
