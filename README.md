@@ -23,7 +23,9 @@
 
 ### Description
 
-Hey hacker, did you knew that you can create tokens in Solana? In Solana we have SPL tokens stardard and are very easy to create :) 
+Hey hacker 🥷 , did you knew that you can create tokens in Solana? 
+
+In Solana we have SPL tokens stardard and are very easy to create :) 
 
 💡 Record the start time so we can reference it later.
 
