@@ -34,8 +34,14 @@ Your objective will be pretty simple, create a token and mint 21.000.000 units.
 
 1. Visit the Solana SPL docs: <a href="https://spl.solana.com/" target="_blank">https://spl.solana.com/</a>
 2. Click on <a href="https://spl.solana.com/token" target="_blank">Token Program</a> 
-3. <a href="https://spl.solana.com/token#reference-guide" target="_blank">Install SPL, select devnet network and create a keypair</a>
-4. <a href="https://spl.solana.com/token#example-creating-your-own-fungible-token" target="_blank">Follow the guide to create Fungible Tokens</a>
+3. To get started you will have to: 
+ - Install SPL
+ - Select Devnet network 
+ - Create a new keypair 
+ - Airdrop some SOL to your keypair 
+ 
+<a href="https://spl.solana.com/token#reference-guide" target="_blank">Getting Started</a>
+4. Now you are ready to continue.<a href="https://spl.solana.com/token#example-creating-your-own-fungible-token" target="_blank">Follow the guide to create Fungible Tokens</a>
 
 
 
