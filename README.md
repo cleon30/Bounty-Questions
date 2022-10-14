@@ -64,6 +64,11 @@ Explorer example:
 
 <img width="1098" alt="image" src="https://user-images.githubusercontent.com/62452212/195808308-873f1f57-f6fe-4137-93f8-7816d44bd432.png">
 
+### Resources:
+
+<a href="https://spl.solana.com/" target="_blank">Solana SPL</a> 
+
+<a href="https://doc.rust-lang.org/book/" target="_blank">Rust</a>
 
 ## **2. SPL Tokens: Create your first Non Fungible Token (NFT)**
 
