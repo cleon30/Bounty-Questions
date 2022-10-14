@@ -139,6 +139,13 @@ a2: 10
 
 - <a href="https://solscan.io/" target="_blank">SolScan Explorer</a>
 
+___
+
+### How to Submit
+Your submission should include the following:
+1. The `Token ID` of the Token you created.
+2. Time it took to complete the Non-Fungible Token Challenge.
+
 
 ## **3. SPL Tokens: Transfer your NFT to our Bounty Address**
 
