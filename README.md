@@ -156,7 +156,7 @@ ___
 
 ***You will need to complete the SPL Token introductory challenges before working on this challenge!***
 
-Hey Hunter 🥷 ! Welcome to the last part of the easy SPL challenge 🐒! In this final part you will learn how to send Tokens!
+Hey Hunter 🥷 ! Welcome to the last part of the easy SPL challenge 🪙🤝🐒! In this final part you will learn how to send Tokens!
 
 For that we will ask you to send 1.000.000 Fungible Tokens and 1 NFT to our Bounty Address : `5QDcRHpEfDvCT9Ku3yaC8h9GYvDmsLGmq9FQZYh6Vd5`
 
