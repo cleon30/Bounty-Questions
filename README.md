@@ -43,9 +43,11 @@ Your objective will be pretty simple, create a token and mint 21.000.000 units.
 ### Q/A
 
 q1: Token ID
+
 a1: [a valid Token ID]
 
 q2: Signature of the Minting 
+
 a2: [a valid Signature]
 
 ## **2. SPL Tokens: Create your first Non Fungible Token (NFT)**
