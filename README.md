@@ -15,7 +15,7 @@
 
 - 1 [SPL Tokens: Create 21.000.000 units of a Fungible Token](#1-spl-tokens-create-21000000-units-of-a-fungible-token) 
 - 2 [SPL Tokens: Create your first Non Fungible Token (NFT)](#2-spl-tokens-create-your-first-non-fungible-token-nft)
-- 3 [SPL Tokens: Transfer your NFT to our Bounty Address](#3-spl-tokens-transfer-your-nft-to-our-bounty-address) 
+- 3 [SPL Tokens: Transfer your NFT to our Bounty Address](#3-spl-tokens-transfer-1000000-fungible-tokens-and-1-nft-to-our-bounty-address-using-spl) 
 
 ## **1. SPL Tokens: Create 21.000.000 units of a Fungible Token**
 
@@ -214,6 +214,6 @@ ___
 Your submission should include the following:
 1. The `Transaction ID` of the 1.000.000 Tokens transfer.
 2. The `Transaction ID` of the 1 Non Fungible Token transfer.
-3. Explaining what is an Associated Token Account.
+3. Explain what is an Associated Token Account and why is important before transferring tokens.
 4. Time it took to complete the Non-Fungible Token Challenge.
 
