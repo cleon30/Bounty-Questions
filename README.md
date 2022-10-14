@@ -19,7 +19,7 @@
 
 ## **1. SPL Tokens: Create 21.000.000 units of a Fungible Token**
 
-### Reward: 30 Points 💰
+### Reward: 50 Points 💰
 ___
 
 ### Description
@@ -90,7 +90,7 @@ Your submission should include the following:
 
 ## **2. SPL Tokens: Create your first Non Fungible Token (NFT)**
 
-### Reward: 30 Points 💰
+### Reward: 50 Points 💰
 ___
 
 ### Description
