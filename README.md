@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <code>Bounty Questions by cleon</code>
+    <code>Bounty Questions by cleon 🥷</code>
   </h1>
 
   
