@@ -95,6 +95,37 @@ ___
 
 ### Description
 
-Hey Hunter 🥷 , welcome to the NFT challenge
+Hey Hunter 🥷 , welcome to the NFT challenge 🐒 ! In this challenge you will create your first Non-Fungible Token using SPL!
+
+The outcome of this challenge will probably let you know why they are called NON-Fungible Tokens 🪙 
+
+💡 Record the start time so we can reference it later.
+
+1. Visit the Solana SPL docs: <a href="https://spl.solana.com/" target="_blank">https://spl.solana.com/</a>
+2. Click on <a href="https://spl.solana.com/token" target="_blank">Token Program</a> 
+3. <a href="https://spl.solana.com/token#reference-guide" target="_blank">Install SPL</a>
+4. <a href="https://spl.solana.com/token#example-create-a-non-fungible-token" target="_blank">Follow the guide to create Non-Fungible Tokens</a>
+
+💡 Record the end time. How long did it take?
+
+
+### Tips:
+
+- Make sure you have Rust installed!
+- Check that you are currently using devnet network 👀
+- Be careful when selecting your Token ID and your Associated Token Account
+- Set your keypair properly!
+- Initial Decimals are important!
+
+### Q/A
+
+q1: Token ID
+
+a1: [a valid Token ID]
+
+Explorer example:
+
+<img width="1262" alt="image" src="https://user-images.githubusercontent.com/62452212/195823793-b7fb479c-6002-4945-af07-f08fb1004d61.png">
 
 ## **3. SPL Tokens: Transfer your NFT to our Bounty Address**
+
