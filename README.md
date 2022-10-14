@@ -215,5 +215,5 @@ Your submission should include the following:
 1. The `Transaction ID` of the 1.000.000 Tokens transfer.
 2. The `Transaction ID` of the 1 Non Fungible Token transfer.
 3. Explain what is an Associated Token Account and why is important before transferring tokens.
-4. Time it took to complete the Non-Fungible Token Challenge.
+4. Time it took to complete this Tutorial.
 
