@@ -48,6 +48,7 @@ Your objective will be pretty simple, create a token and mint 21.000.000 units.
 - Be careful when selecting your Token ID and your Associated Token Account
 - Set your keypair properly!
 
+
 ### Q/A
 
 q1: Token ID
@@ -78,6 +79,8 @@ a3: 10
 - <a href="https://doc.rust-lang.org/book/" target="_blank">Rust</a>
 
 - <a href="https://solscan.io/" target="_blank">SolScan Explorer</a>
+
+- <a href="https://github.com/cleon30/Solana-Bootcamp#43-fungible-tokens" target="_blank">Alternative Fungible Token Tutorial by cleon</a> 
 
 ___
 
@@ -139,6 +142,7 @@ a2: 10
 
 - <a href="https://solscan.io/" target="_blank">SolScan Explorer</a>
 
+- <a href="https://github.com/cleon30/Solana-Bootcamp#44-non-fungible-tokensnft" target="_blank">Alternative Non-Fungible Token Tutorial by cleon</a> 
 ___
 
 ### How to Submit
