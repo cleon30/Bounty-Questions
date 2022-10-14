@@ -13,7 +13,7 @@
 
 ## Table of Contents
 
-- 1 [SPL Tokens: Create 21.000.000 units of a Fungible Token](#1-presentation) 
+- 1 [SPL Tokens: Create 21.000.000 units of a Fungible Token](#1-spl-tokens-create-a-fungible-token-with-21000000-units) 
 - 2 [SPL Tokens: Create your first Non Fungible Token (NFT)](#1-presentation) 
 - 3 [SPL Tokens: Transfer your NFT to our Bounty Address](#1-presentation) 
 
@@ -23,7 +23,7 @@
 
 ### Description
 
-Hey hacker, did you that you can create tokens in Solana? In Solana we have SPL tokens stardard and are very easy to create :) 
+Hey hacker, did you knew that you can create tokens in Solana? In Solana we have SPL tokens stardard and are very easy to create :) 
 
 💡 Record the start time so we can reference it later.
 
