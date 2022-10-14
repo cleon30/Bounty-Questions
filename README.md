@@ -14,7 +14,7 @@
 ## Table of Contents
 
 - 1 [SPL Tokens: Create 21.000.000 units of a Fungible Token](#1-spl-tokens-create-21000000-units-of-a-fungible-token) 
-- 2 [SPL Tokens: Create your first Non Fungible Token (NFT)](#1-presentation) 
+- 2 [SPL Tokens: Create your first Non Fungible Token (NFT)](#2-spl-tokens-create-your-first-non-fungible-token-nft)) 
 - 3 [SPL Tokens: Transfer your NFT to our Bounty Address](#1-presentation) 
 
 ## **1. SPL Tokens: Create 21.000.000 units of a Fungible Token**
@@ -67,4 +67,4 @@ Explorer example:
 
 ## **2. SPL Tokens: Create your first Non Fungible Token (NFT)**
 
-## **3. SPL Tokens: Transfer your NFT to our Bounty Address]**
+## **3. SPL Tokens: Transfer your NFT to our Bounty Address**
