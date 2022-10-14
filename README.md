@@ -40,6 +40,11 @@ Your objective will be pretty simple, create a token and mint 21.000.000 units.
 
 ### Tips:
 
+- Make sure you have Rust installed!
+- Check that you are currently using devnet network 👀
+- Be careful when selecting your Token ID and your Associated Token Account
+- Set your keypair properly!
+
 ### Q/A
 
 q1: Token ID
