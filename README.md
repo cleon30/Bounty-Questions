@@ -160,8 +160,12 @@ Hey Hunter 🥷 ! Welcome to the last part of the easy SPL challenge 🪙🤝�
 
 In this final part you will learn how to send Tokens!
 
+💡 Record the start time so we can reference it later.
+
 For that we will ask you to send 1.000.000 Fungible Tokens and 1 NFT to our Bounty Address : 
 ```bash
 5QDcRHpEfDvCT9Ku3yaC8h9GYvDmsLGmq9FQZYh6Vd5
+```
+
 
 
