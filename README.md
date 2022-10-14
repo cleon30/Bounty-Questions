@@ -60,9 +60,9 @@ q2: Signature of the Minting
 
 a2: [a valid Signature]
 
-q: how much time did something take? (mins)
+q3: how much time did something take? (mins)
 
-a: 5
+a3: 5
 
 
 Explorer example:
