@@ -77,6 +77,8 @@ a3: 10
 
 <a href="https://doc.rust-lang.org/book/" target="_blank">Rust</a>
 
+<a href="https://solscan.io/" target="_blank">SolScan Explorer</a>
+
 ___
 
 ### How to Submit
@@ -93,6 +95,6 @@ ___
 
 ### Description
 
-Hey Solana enjoyer 🥷 ! In this challenge you will understand what is an NFT.
+Hey Hunter 🥷 , welcome to the NFT challenge
 
 ## **3. SPL Tokens: Transfer your NFT to our Bounty Address**
