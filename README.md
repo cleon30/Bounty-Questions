@@ -127,5 +127,14 @@ Explorer example:
 
 <img width="1262" alt="image" src="https://user-images.githubusercontent.com/62452212/195823793-b7fb479c-6002-4945-af07-f08fb1004d61.png">
 
+### Resources:
+
+<a href="https://spl.solana.com/" target="_blank">Solana SPL</a> 
+
+<a href="https://doc.rust-lang.org/book/" target="_blank">Rust</a>
+
+<a href="https://solscan.io/" target="_blank">SolScan Explorer</a>
+
+
 ## **3. SPL Tokens: Transfer your NFT to our Bounty Address**
 
