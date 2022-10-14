@@ -198,9 +198,9 @@ q3: What is an Associated Token Account and why do we need to create it before t
 
 a3: An Associated Token Account is the result of deriving a token account key from a user's main System account address and a token mint address, allowing the user to create a main token account for each token they own. In simple words, an Associated Token Account is an account that references our wallet + Token ID , creating an account to hold this specific token. 
 
-q3: How much time did it take? (mins)
+q4: How much time did it take? (mins)
 
-a3: 5
+a4: 5
 
 ### Resources:
 
