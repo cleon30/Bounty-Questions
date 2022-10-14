@@ -24,7 +24,7 @@ ___
 
 ### Description
 
-Hey Hunter 🥷 , did you knew that you can create tokens in Solana? In Solana we have SPL token stardard and are very easy to create :) 
+Hey Hunter 🥷 , did you knew that you can create tokens in Solana? In Solana we use SPL token stardard and are very easy to create :) 
 
 💡 Record the start time so we can reference it later.
 
