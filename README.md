@@ -51,8 +51,14 @@ q1: Token ID
 
 a1: [a valid Token ID]
 
+<img width="1262" alt="image" src="https://user-images.githubusercontent.com/62452212/195808438-191f4fca-df69-47a4-81b0-d5a2dac2dc13.png">
+
+
 q2: Signature of the Minting 
 
 a2: [a valid Signature]
+
+<img width="1098" alt="image" src="https://user-images.githubusercontent.com/62452212/195808308-873f1f57-f6fe-4137-93f8-7816d44bd432.png">
+
 
 ## **2. SPL Tokens: Create your first Non Fungible Token (NFT)**
